@@ -6,7 +6,7 @@ Accelerating gene sequencing software using CUDA High-Performance computing tech
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Mac](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white)
+![Mac](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=white)
 
 ## ⚔️ Technologies
 
