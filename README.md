@@ -24,4 +24,4 @@
 ## 👀 Find me
 
 - Mastodon: [游荡](https://utopia.cool/@twisted)🐘
-- blog: click [Twisted Meadows](https://www.twisted-meadows.com/)✍🏾
+- Blog: [Twisted Meadows](https://www.twisted-meadows.com/)✍🏾
