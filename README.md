@@ -1,4 +1,5 @@
-Currently working in the field of Bioinformatics.
+Currently working in Bioinformatics.
+
 Accelerating gene sequencing software using CUDA High-Performance computing technology. 
 
 ## ⛩ Platforms
