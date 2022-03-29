@@ -17,6 +17,7 @@ Accelerating gene sequencing software using CUDA High-Performance computing tech
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
