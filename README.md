@@ -1,13 +1,18 @@
+Currently working in the field of Bioinformatics.
+Accelerating gene sequencing software using CUDA High-Performance computing technology. 
+
 ## ⛩ Platforms
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white)
 
 ## ⚔️ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
+![CUDA](https://img.shields.io/badge/-CUDA-%76B900?style=flat-square&logo=NVIDIA&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
