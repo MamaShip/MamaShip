@@ -11,7 +11,7 @@ Accelerating gene sequencing software using CUDA High-Performance computing tech
 
 ## ⚔️ Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
 ![CUDA](https://img.shields.io/badge/-CUDA-%76B900?style=flat-square&logo=NVIDIA&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
