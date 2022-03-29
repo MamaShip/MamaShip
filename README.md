@@ -17,4 +17,11 @@
 
 [![MamaShip's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamaShip)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MamaShip&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamaShip)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👀 Find me
+
+- Mastodon: [游荡](https://utopia.cool/@twisted)🐘
+- blog: click [Twisted Meadows](https://www.twisted-meadows.com/)✍🏾
