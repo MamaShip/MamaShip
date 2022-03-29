@@ -30,5 +30,5 @@ Accelerating gene sequencing software using CUDA High-Performance computing tech
 
 ## 👀 Find me
 
-- Mastodon: [游荡](https://utopia.cool/@twisted)🐘
-- Blog: [Twisted Meadows](https://www.twisted-meadows.com/)✍🏾
+- 🐘 Mastodon: [游荡](https://utopia.cool/@twisted)
+- ✍🏾 Blog: [Twisted Meadows](https://www.twisted-meadows.com/)
